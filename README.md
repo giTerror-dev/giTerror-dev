@@ -1,2 +1,7 @@
-- 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋 Howdy, I’m @giTerror-dev
-- Working on some Reinforcement Learning algos
+# Project Ideas
+- Commodity trading
+- Financial Market Interactive Software
+- Employee Optimization
+- Tax Avoidance
+- Lending
+- Private Equity
