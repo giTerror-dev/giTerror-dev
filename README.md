@@ -1,1 +1,1 @@
-# I develop projects 
+Modern day alchemist (quantitative financial analyst).
