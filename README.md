@@ -1,1 +1,1 @@
-Modern day alchemist (quantitative financial analyst).
+Currently working on building a single instrument, index futures trading engine that uses orderbook data and deep learning (not decided on the specific approach) to trade at a high frequency.  It's likely that many more projects will be posted here.  It's unlikely that any of them will be useful.  Do not use any of these to trade, unless you enjoy losing money.
